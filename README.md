@@ -3,7 +3,7 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built with Node.js, Express, and MongoDB. It allows users to perform CRUD operations on user data (name, email, and city). The project follows a RESTful API design and demonstrates basic database interactions using MongoDB with Mongoose.
 
-#Key features include:
+# Key features include:
 
 Create: Add new users to the database.
 
@@ -15,7 +15,7 @@ Delete: Remove a user from the database.
 
 The backend is structured using Express for routing, and Mongoose for interacting with MongoDB. The app also supports error handling and data validation for smooth operations.
 
-#Technologies Used:
+# Technologies Used:
 Node.js
 
 Express.js
@@ -26,7 +26,7 @@ Postman (for API testing)
 
 dotenv (for environment variables)
 
-#Project Setup:
+# Project Setup:
 Clone the repository: git clone <repository-url>
 
 Install dependencies: npm install
