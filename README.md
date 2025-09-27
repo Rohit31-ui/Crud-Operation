@@ -25,12 +25,3 @@ MongoDB (via Mongoose)
 Postman (for API testing)
 
 dotenv (for environment variables)
-
-# Project Setup:
-Clone the repository: git clone <repository-url>
-
-Install dependencies: npm install
-
-Create a .env file with your MongoDB URI (e.g., MONGO_URI=mongodb://127.0.0.1:27017/student)
-
-Run the server: npm start
